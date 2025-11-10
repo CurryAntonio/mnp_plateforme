@@ -34,7 +34,6 @@ wheels/
 
 # Fichiers de médias et statiques collectés
 media/
-static/
 
 # Fichiers de configuration locaux
 local_settings.py
