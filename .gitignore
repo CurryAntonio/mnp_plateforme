@@ -1,0 +1,64 @@
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Fichiers de base de données SQLite
+*.sqlite3
+*.db
+
+# Fichiers de logs
+*.log
+
+# Fichiers de médias et statiques collectés
+media/
+static/
+
+# Fichiers de configuration locaux
+local_settings.py
+
+# Fichiers d'IDE et d'éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Fichiers Excel et CSV générés
+*.xlsx
+*.xls
+*.csv
+
+# Dossiers de migrations Django (optionnel)
+# */migrations/*.py
+# !*/migrations/__init__.py
